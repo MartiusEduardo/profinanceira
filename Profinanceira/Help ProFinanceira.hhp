@@ -1,0 +1,34 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Help ProFinanceira\Help ProFinanceira.chm
+Contents file=Help ProFinanceira\conteudo.hhc
+Default Window=profinanceira
+Default topic=Help ProFinanceira\ef.htm
+Display compile progress=No
+Index file=Help ProFinanceira\Index_ef.hhk
+Language=0x416 Portuguese (Brazil)
+Title=ProFinanceira
+
+[WINDOWS]
+profinanceira=,"Help ProFinanceira\conteudo.hhc","Help ProFinanceira\Index_ef.hhk","Help ProFinanceira\ef.htm",,,,,,0x2120,,0x3006,,,,,,1,,0
+
+
+[FILES]
+Help ProFinanceira\sa.htm
+Help ProFinanceira\sac.htm
+Help ProFinanceira\sf.htm
+Help ProFinanceira\sp.htm
+Help ProFinanceira\ef.htm
+
+[ALIAS]
+EF_EF=Help ProFinanceira\ef.htm
+EF_SA=Help ProFinanceira\sa.htm
+EF_SAC=Help ProFinanceira\sac.htm
+EF_SF=Help ProFinanceira\sf.htm
+EF_SP=Help ProFinanceira\sp.htm
+
+[MAP]
+#include Help ProFinanceira\emprestimos_financiamentos.h
+
+[INFOTYPES]
+

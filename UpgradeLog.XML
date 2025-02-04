@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Profinanceira">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Eduardo\My Documents\Visual Studio 2008\Projects\Profinanceira\Profinanceira.sln">
+</Property><Property Name="Date" Value="terça-feira, 3 de março de 2009">
+</Property><Property Name="Time" Value="02:08">
+</Property></Properties><Event ErrorLevel="0" Project="Profinanceira" Source="Profinanceira\Profinanceira.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Profinanceira" Source="Profinanceira\Profinanceira.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Profinanceira.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Profinanceira.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Profinanceira" Source="Profinanceira\Profinanceira.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
